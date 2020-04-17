@@ -1,7 +1,8 @@
 <div>
 <p>{{user.name}}</p>
 <p>{{user.address}}</p>
-<div>
+<div *ngIf="user.phone.length">
+    <p>Phone:</p>
     <p *ngFor="let phone of user.phone">{{phone}}</p>
 </div>
 </div>
