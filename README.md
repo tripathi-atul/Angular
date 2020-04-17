@@ -1,3 +1,8 @@
+commands:
+npm angular cli --> to download angular client
+ng new project --> to create new project
+ng serve --open --> to run this project
+
 # SecondProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
