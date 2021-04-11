@@ -1,4 +1,7 @@
 commands:
+1)First of all download visual studio and then install node.js since it works as heart for entire javascript world
+2)Once I have node, follow below steps, install angular cli using npm(which is given by node). Angulat cli helps in generating project and conponents and different kind of things related to angular project. once you have angular cli, ise ng command to make use of it.
+
 npm angular cli --> to download angular client
 ng new project --> to create new project
 ng serve --open --> to run this project
